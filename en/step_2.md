@@ -1,4 +1,4 @@
-## Prompting Chat GPT
+## Prompting ChatGPT
 
 This series of prompts will allow you to paste in copies of your preivous writing, and create an output which can be used as instructions for ChatGPT.
 
