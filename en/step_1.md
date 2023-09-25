@@ -1,6 +1,8 @@
 ## Introduction to Personalizing ChatGPT: Making AI Sound Like You!
 
-Welcome to this engaging lesson on customizing ChatGPT! Ever wondered if a system could replicate your distinct writing style? Well, today you're in for a treat. We'll delve deep into the fascinating realm of Large Language Models (LLM), teaching you how to configure ChatGPT to emulate your specific style. Whether you’re an eloquent essayist, a quirky questioner, or a poetic ponderer, by the end of this session, there will be a model configured to mirror your unique voice. Let's dive in and make technology a little more personal!
+Ever wondered if a system could replicate your distinct writing style? Well, today you're in for a treat. We'll delve deep into the fascinating realm of Large Language Models (LLMs), teaching you how to configure ChatGPT to emulate your signature style and tone when generating copy. 
+
+Whether you’re an eloquent essayist, a quirky questioner, or a poetic ponderer, by the end of this session, there will be a model configured to mirror your unique voice. Let's dive in and make technology a little more personal!
 
 <p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
 This project assumes you have an account with ChatGPT already. If you don't have one, sign up for a free account now at <a>https://chat.openai.com/auth/login</a>. 
