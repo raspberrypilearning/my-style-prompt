@@ -64,7 +64,7 @@ Paste in the following prompt:
 
 --- /task ---
 
-You can even get ChatGPT to condense the ‘My Style’ summary down into a short version to use as ‘Custom Instructions’ so that it uses this voice in all new chats:
+You can even get ChatGPT to condense the ‘My Style’ summary down into a short version to use as ‘Custom Instructions’ so that this voice is used in all new chats:
 
 --- task ---
 
