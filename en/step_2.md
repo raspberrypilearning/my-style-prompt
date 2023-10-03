@@ -25,8 +25,11 @@ Press **Enter**. ChatGPT should say `Please paste training documents now!`
 
 Training documents could be anything - emails, articles, reports, anything you think makes a good example of 'training data' for ChatGPT. It might be more valuable to you to repeat this process for each of the different voices you use in your work. 
 
-For example:
-If you add examples of your writing exclusively from your articles, ChatGPT will mimic this voice incredibly closely. If you add emails, it will sound the way you do in your email conversations. 
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+<br><strong>For example:</strong>
+If you add examples of your writing exclusively from your articles, ChatGPT will mimic this voice incredibly closely. If you add emails, it will sound the way you do in your email conversations. <br>
+
+</p>
 
 --- task ---
 
